@@ -3,4 +3,6 @@ class PncsController < ApplicationController
   end
   def transcript
   end
+  def metric
+  end
 end
